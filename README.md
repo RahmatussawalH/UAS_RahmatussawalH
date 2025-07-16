@@ -12,7 +12,7 @@ Aplikasi ini merupakan sistem CRUD sederhana untuk data buku yang mencakup:
   
 ## 📸 Screenshot Daftar Buku
 
-Screenshot 2025-07-16 022127.png
+(Screenshot 2025-07-16 022127.png)
 Screenshot 2025-07-16 022127.png
 
 ## 📸 Screenshot Tambah Buku Baru
