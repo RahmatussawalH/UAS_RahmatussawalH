@@ -22,7 +22,7 @@ Aplikasi ini merupakan sistem CRUD sederhana untuk data buku yang mencakup:
 
 ## 📸 Screenshot Menghapus Buku
 
-Screenshot 2025-07-16 093716.png
+<img width="1918" height="986" alt="Image" src="https://github.com/user-attachments/assets/df380a14-f9c8-4e31-b1f5-509c7ef0febd" />
 
 ## Cara Menjalankan
 1. Clone repository ini:
