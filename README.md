@@ -12,7 +12,7 @@ Aplikasi ini merupakan sistem CRUD sederhana untuk data buku yang mencakup:
   
 ## 📸 Screenshot Daftar Buku
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2477372f-245f-46b7-8ba4-85011019fdd4" />
+![Tampilan Daftar Buku]<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2477372f-245f-46b7-8ba4-85011019fdd4" />
 Screenshot 2025-07-16 022127.png
 
 ## 📸 Screenshot Tambah Buku Baru
